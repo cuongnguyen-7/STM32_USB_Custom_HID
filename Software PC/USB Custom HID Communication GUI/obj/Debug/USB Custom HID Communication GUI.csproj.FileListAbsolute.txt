@@ -1,0 +1,21 @@
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\bin\Debug\USB Custom HID Communication GUI.exe
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\bin\Debug\USB Custom HID Communication GUI.pdb
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\obj\Debug\USB_Custom_HID_Communication_GUI.Form1.resources
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\obj\Debug\USB_Custom_HID_Communication_GUI.Properties.Resources.resources
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.csproj.GenerateResource.Cache
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.exe
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.pdb
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\bin\Debug\LibUsbDotNet.dll
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\bin\Debug\LibUsbDotNet.xml
+C:\Users\XuanThiep\Dropbox\C# Project Dropbox\USB Custom HID Communication GUI\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\bin\Debug\USB Custom HID Communication GUI.exe
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\bin\Debug\USB Custom HID Communication GUI.pdb
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\bin\Debug\LibUsbDotNet.xml
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\obj\Debug\USB_Custom_HID_Communication_GUI.Form1.resources
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\obj\Debug\USB_Custom_HID_Communication_GUI.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\obj\Debug\USB Cust.AF1BA9E5.Up2Date
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.exe
+C:\Users\LENOVO\Downloads\STM32F4-Discovery-Tutorial-master\STM32F4-Discovery-Tutorial-master\14_USB_Custom_HID\Software PC\USB Custom HID Communication GUI\obj\Debug\USB Custom HID Communication GUI.pdb
